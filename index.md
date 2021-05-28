@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Project Portfolio
 
 You can use the [editor on GitHub](https://github.com/gel1has3/gtegenaw.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
