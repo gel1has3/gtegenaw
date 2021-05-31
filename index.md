@@ -23,6 +23,17 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+### Health Informatics/eHealth and IoT
+
+```markdown
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
 
 
 ### Data mining 
