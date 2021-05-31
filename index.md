@@ -5,17 +5,6 @@ You can use the [editor on GitHub](https://github.com/gel1has3/gtegenaw.github.i
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## Projects
-### Project 1 - 
-### Project 2 - 
-### Project 3 - 
-### Project 4 - 
-### Project 5 - 
-### Project 6 - 
-### Project 7 - 
-### Project 8 - 
-### Project 9 - 
-### Project 10 - 
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -37,6 +26,17 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
+### Project 1 - 
+### Project 2 - 
+### Project 3 - 
+### Project 4 - 
+### Project 5 - 
+### Project 6 - 
+### Project 7 - 
+### Project 8 - 
+### Project 9 - 
+### Project 10 - 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
