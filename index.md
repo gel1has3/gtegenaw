@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Projects
 
-### Project 1 -  
+### Data science and machine learning projects
 Aims to Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 ghlighted code block
 ```markdown
@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 
 
-### Project 2 - 
+### Data mining projects
 
 ```markdown
 1. Numbered
@@ -36,14 +36,14 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-### Project 3 - 
+### Recommendation systetm projects 
 ```markdown
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
 
-### Project 4 - 
+### Automation projects
 ```markdown
 
 [Link](url) and ![Image](src)
