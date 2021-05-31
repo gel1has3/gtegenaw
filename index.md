@@ -6,7 +6,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Projects
 
-### Data science and machine learning 
+
+### I. eHealth: CLINICAL DECISION SUPPORT SYSTEMS
+```markdown
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+### II. Data science and machine learning 
 Aims to Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 ghlighted code block
 ```markdown
@@ -23,7 +31,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-### Health Informatics/eHealth and IoT
+### III. Health Informatics/eHealth and IoT
 
 ```markdown
 1. Numbered
@@ -36,7 +44,7 @@ Syntax highlighted code block
 
 
 
-### Data mining 
+### IV. Data mining 
 
 ```markdown
 1. Numbered
@@ -47,48 +55,22 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-### Recommendation System   
+### V. Recommendation System   
 ```markdown
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
 
-### Automation 
+### VI. EXPERT AND KNOWLEDGE BASED SYSTEM
 ```markdown
 
 [Link](url) and ![Image](src)
 ```
 
-### Project 5 - 
+### VII. Automation 
 ```markdown
 Syntax highlighted code block
-```
-
-### Project 6 - 
-```markdown
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-### Project 7 - 
-```markdown
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-### Project 8 - 
-```markdown
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-### Project 9 - 
-```markdown
-[Link](url) and ![Image](src)
 ```
 
 
