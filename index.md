@@ -26,15 +26,62 @@ Syntax highlighted code block
 
 
 ### Project 2 - 
-### Project 3 - 
-### Project 4 - 
-### Project 5 - 
-### Project 6 - 
-### Project 7 - 
-### Project 8 - 
-### Project 9 - 
-### Project 10 -
 
+```markdown
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+### Project 3 - 
+```markdown
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+### Project 4 - 
+```markdown
+
+[Link](url) and ![Image](src)
+```
+
+### Project 5 - 
+```markdown
+Syntax highlighted code block
+```
+
+### Project 6 - 
+```markdown
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+### Project 7 - 
+```markdown
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+### Project 8 - 
+```markdown
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+### Project 9 - 
+```markdown
+[Link](url) and ![Image](src)
+```
+
+
+### Project 10 -
 
 ### Markdown
 
